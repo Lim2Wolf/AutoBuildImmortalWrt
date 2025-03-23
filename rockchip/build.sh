@@ -43,9 +43,6 @@ PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-app-nikki"
 PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-app-alist"
-PACKAGES="$PACKAGES luci-app-nekobox"
-PACKAGES="$PACKAGES luci-theme-design_new"
-PACKAGES="$PACKAGES luci-theme-partexp"
 
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
